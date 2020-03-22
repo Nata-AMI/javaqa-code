@@ -67,14 +67,9 @@
                                 <limit>
                                     <counter>LINE</counter>
                                     <value>COVEREDRATIO</value>
-                                    <minimum>0.80</minimum>
+                                    <minimum>1.00</minimum>
                                 </limit>
-                                <limit>
-                                    <counter>CLASS</counter>
-                                    <value>MISSEDCOUNT</value>
-                                    <maximum>0</maximum>
-                                </limit>
-                            </limits>
+                                </limits>
                         </rule>
                     </rules>
                 </configuration>
